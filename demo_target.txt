@@ -1,0 +1,4 @@
+Hello, I'm Daniel
+This file demonstrates opening a file in different modes.
+
+Favorite subject: Science
